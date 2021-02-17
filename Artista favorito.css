@@ -1,0 +1,24 @@
+#principal{
+    width: 100%; height: 350px;
+    display:block;
+    margin:auto;
+    
+    
+}
+#TITULO{
+    color: rgb(241, 24, 24);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 65px;
+    text-align: center;
+}
+.listado{
+    list-style: none;
+}
+#link{
+    color: blue;
+}
+#galeria{
+    width: 150px; height: 200;
+    border-color: chocolate;
+    
+}
